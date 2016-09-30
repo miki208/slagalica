@@ -1,0 +1,113 @@
+@charset "utf-8";
+* {
+	margin: 0px;
+}
+#wrapper {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#wrapper #bar {
+	width: 800px;
+	background-image: url(rank-ind1.png);
+	float:left;
+}
+#wrapper #bar #time {
+	float: right;
+	clear: none;
+	height: 70px;
+	width: 70px;
+	margin: 10px;
+	background-color: #FFFF00;
+	-webkit-border-radius: 35px;
+	-moz-border-radius: 35px;
+	color: #FF0000;
+	border: thick outset #FF0000;
+}
+#wrapper #bar #time p {
+	font-size: 60px;
+	text-align: center;
+}
+
+
+#wrapper #bar #points {
+	width: 90px;
+	height: 70px;
+	margin: 10px;
+	background-color: #FFFF00;
+	position: absolute;
+	color: #FF0000;
+	border: thick outset #FF0000;
+}
+#wrapper #bar #points p {
+	font-size: 60px;
+	text-align: center;
+}
+#wrapper #igra {
+	background-image: url(dost-ind1.jpg);
+	background-repeat: repeat;
+	width: 800px;
+	margin: 0px;
+	clear: both;
+	float: left;
+}
+#wrapper #igra #dugmici {
+	width: 750px;
+	margin-top: 50px;
+	margin-left: 10px;
+	clear: both;
+	float: left;
+}
+#dugme {
+	height: 40px;
+	width: 40px;
+	background-color: #FFFF00;
+	float: left;
+	margin: 5px;
+	color: #FF0000;
+	cursor: pointer;
+	border: 2px solid #FF0000;
+}
+#wrapper #igra #rec {
+	clear: both;
+	float: left;
+	color: #FF0000;
+	background-color: #FFFF00;
+	text-align: left;
+	height: 40px;
+	width: 600px;
+	margin-top: 20px;
+	margin-left: 10px;
+	border: 2px solid #FF0000;
+}
+#wrapper #igra #rec p {
+	font-size: 30px;
+	margin-left: 5px;
+}
+#wrapper #igra #komp p {
+	font-size: 30px;
+	margin-left: 5px;
+}
+
+
+#wrapper #igra #dugmici #dugme p {
+	font-size: 30px;
+	text-align: center;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+#wrapper #igra #komp {
+	color: #FF0000;
+	background-color: #FFFF00;
+	text-align: left;
+	width: 600px;
+	height: 40px;
+	margin-top: 10px;
+	margin-left: 10px;
+	float: left;
+	clear: both;
+	border: 2px solid #FF0000;
+	margin-bottom: 150px;
+}

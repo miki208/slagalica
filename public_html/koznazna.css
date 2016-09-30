@@ -1,0 +1,137 @@
+@charset "utf-8";
+* {
+	margin: 0px;
+}
+#wrapper {
+	height: auto;
+	width: 800px;
+	border: 1px solid #FF0000;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: "Courier New", Courier, monospace;
+	color: #FF0000;
+}
+
+#wrapper #bar {
+	width: 800px;
+	background-image: url(rank-ind1.png);
+	float:left;
+}
+#wrapper #bar #time {
+	float: right;
+	clear: none;
+	height: 80px;
+	width: 80px;
+	margin: 10px;
+	background-color: #FFFF00;
+	-webkit-border-radius: 40px;
+	-moz-border-radius: 40px;
+	color: #FF0000;
+	border: thick outset #FF0000;
+}
+#wrapper #bar #time p {
+	font-size: 45px;
+	text-align: center;
+	margin-top:12px;
+}
+
+#wrapper #bar #points {
+	width: 90px;
+	height: 70px;
+	margin: 10px;
+	background-color: #FFFF00;
+	position: absolute;
+	color: #FF0000;
+	border: thick outset #FF0000;
+}
+#wrapper #bar #points p {
+	font-size: 60px;
+	text-align: center;
+}
+#wrapper #igra {
+	background-image: url(dost-ind1.jpg);
+	background-repeat: repeat;
+	width: 800px;
+	margin: 0px;
+	clear: both;
+	float:left;
+}#wrapper #igra #kategorija {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 24px;
+	color: #FFFFFF;
+	background-color: #06C;
+	text-align: center;
+	width: 400px;
+	margin-top: 10px;
+	margin-left: 10px;
+	border-radius:10px;
+	border: 1px solid #FF0000;
+}
+#wrapper #igra #pitanje {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 24px;
+	color: #FFFFFF;
+	background-color: #06C;
+	height: 120px;
+	width: 770px;
+	margin-top: 15px;
+	margin-left: 10px;
+	border: 1px solid #FF0000;
+	border-radius:10px;
+}
+#wrapper #igra #pitanje p {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 24px;
+	color: #FFFFFF;
+	text-align: left;
+	margin: 15px;
+	width: 740px;
+}
+#wrapper #igra #A, #C {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 24px;
+	color: #FFFFFF;
+	background-color: #06C;
+	text-align: center;
+	width: 350px;
+	height:53px;
+	margin-top: 15px;
+	margin-left: 10px;
+	border: 1px solid #FF0000;
+	border-radius:10px;
+	float:left;
+	cursor: pointer;
+	margin-bottom:15px;
+}
+
+#wrapper #igra #B, #D {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 24px;
+	color: #FFFFFF;
+	background-color: #06C;
+	text-align: center;
+	width: 350px;
+	height:53px;
+	margin-top: 15px;
+	margin-right: 20px;
+	border: 1px solid #FF0000;
+	border-radius:10px;
+	float:right;
+	cursor: pointer;
+	margin-bottom:15px;
+}
+#wrapper #igra #x {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 24px;
+	color: #FFFFFF;
+	background-color: #06C;
+	text-align: center;
+	width: 350px;
+	height:53px;
+	margin-right: auto;
+	margin-left:auto;
+	border: 1px solid #FF0000;
+	border-radius:10px;
+	clear:both;
+	cursor: pointer;
+}

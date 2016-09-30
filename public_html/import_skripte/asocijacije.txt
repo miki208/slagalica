@@ -1,0 +1,214 @@
+<asocijacija>
+<kolona>
+<polje>prevoznik</polje>
+<polje>autobus</polje>
+<polje>prolece</polje>
+<polje>ptica</polje>
+<resenje>lasta</resenje>
+<resenje>laste</resenje>
+</kolona>
+<kolona>
+<polje>reka</polje>
+<polje>zapadna</polje>
+<polje>velika</polje>
+<polje>crnomorski sliv</polje>
+<resenje>morava</resenje>
+</kolona>
+<kolona>
+<polje>zvonko</polje>
+<polje>ljutica</polje>
+<polje>diklic</polje>
+<polje>dundjerski</polje>
+<resenje>bogdan</resenje>
+</kolona>
+<kolona>
+<polje>u ledja</polje>
+<polje>kosava</polje>
+<polje>tornado</polje>
+<polje>uragan</polje>
+<resenje>vetar</resenje>
+</kolona>
+<kon_resenje>juzna</kon_resenje>
+<kon_resenje>juzni</kon_resenje>
+<kon_resenje>jug</kon_resenje>
+</asocijacija>
+<asocijacija>
+<kolona>
+<polje>bakardi</polje>
+<polje>secerna trska</polje>
+<polje>aperitiv</polje>
+<polje>ekstrakt</polje>
+<resenje>rum</resenje>
+<resenje>ruma</resenje>
+</kolona>
+<kolona>
+<polje>kartonska</polje>
+<polje>za alat</polje>
+<polje>za hleb</polje>
+<polje>za nakit</polje>
+<resenje>kutija</resenje>
+<resenje>kutiju</resenje>
+</kolona>
+<kolona>
+<polje>trulo</polje>
+<polje>prunus cerasus</polje>
+<polje>maraska</polje>
+<polje>voce</polje>
+<resenje>visnja</resenje>
+<resenje>visnje</resenje>
+</kolona>
+<kolona>
+<polje>kuvanje</polje>
+<polje>crna</polje>
+<polje>glazura</polje>
+<polje>bela</polje>
+<resenje>cokolada</resenje>
+<resenje>cokoladna</resenje>
+</kolona>
+<kon_resenje>bombonjera</kon_resenje>
+<kon_resenje>bombonjere</kon_resenje>
+</asocijacija>
+<asocijacija>
+<kolona>
+<polje>glumac</polje>
+<polje>estradni</polje>
+<polje>veliki</polje>
+<polje>akademija</polje>
+<resenje>umetnik</resenje>
+<resenje>umetnika</resenje>
+</kolona>
+<kolona>
+<polje>italija</polje>
+<polje>renesansa</polje>
+<polje>tajna vecera</polje>
+<polje>muzicar</polje>
+<resenje>leonardo</resenje>
+<resenje>leonardo da vinci</resenje>
+<resenje>da vinci</resenje>
+</kolona>
+<kolona>
+<polje>okvir</polje>
+<polje>portret</polje>
+<polje>... memorija</polje>
+<polje>slika</polje>
+<resenje>ram</resenje>
+<resenje>ramovi</resenje>
+<resenje>rama</resenje>
+</kolona>
+<kolona>
+<polje>holandija</polje>
+<polje>barok</polje>
+<polje>cas anatomije...</polje>
+<polje>nocna straza</polje>
+<resenje>rembrant</resenje>
+</kolona>
+<kon_resenje>slikar</kon_resenje>
+<kon_resenje>slika</kon_resenje>
+<kon_resenje>slike</kon_resenje>
+<kon_resenje>slikari</kon_resenje>
+</asocijacija>
+<asocijacija>
+<kolona>
+<polje>napoleon</polje>
+<polje>konjak</polje>
+<polje>tour de...</polje>
+<polje>burzoaska revolucija</polje>
+<resenje>francuska</resenje>
+<resenje>francuski</resenje>
+</kolona>
+<kolona>
+<polje>vasington</polje>
+<polje>obama</polje>
+<polje>dolar</polje>
+<polje>njujork</polje>
+<resenje>amerika</resenje>
+<resenje>sad</resenje>
+<resenje>sjedinjene americke drzave</resenje>
+</kolona>
+<kolona>
+<polje>rodjendan</polje>
+<polje>masna</polje>
+<polje>dar</polje>
+<polje>paket</polje>
+<resenje>poklon</resenje>
+</kolona>
+<kolona>
+<polje>statusni</polje>
+<polje>logotip</polje>
+<polje>znak</polje>
+<polje>amblem</polje>
+<resenje>simbol</resenje>
+<resenje>simboli</resenje>
+</kolona>
+<kon_resenje>kip slobode</kon_resenje>
+</asocijacija>
+<asocijacija>
+<kolona>
+<polje>pero</polje>
+<polje>auto</polje>
+<polje>za parket</polje>
+<polje>brodski</polje>
+<resenje>lak</resenje>
+</kolona>
+<kolona>
+<polje>orao</polje>
+<polje>tigar</polje>
+<polje>lavlja</polje>
+<polje>sape</polje>
+<resenje>kandza</resenje>
+<resenje>kandze</resenje>
+</kolona>
+<kolona>
+<polje>za igranje</polje>
+<polje>zgodne</polje>
+<polje>hodanje</polje>
+<polje>od namestaja</polje>
+<resenje>noge</resenje>
+<resenje>noga</resenje>
+</kolona>
+<kolona>
+<polje>nezne</polje>
+<polje>zlatne</polje>
+<polje>... moje majke</polje>
+<polje>narukvica</polje>
+<resenje>ruke</resenje>
+<resenje>ruka</resenje>
+</kolona>
+<kon_resenje>nokti</kon_resenje>
+<kon_resenje>nokat</kon_resenje>
+<kon_resenje>za nokte</kon_resenje>
+</asocijacija>
+<asocijacija>
+<kolona>
+<polje>skijaski</polje>
+<polje>dalj</polje>
+<polje>motka</polje>
+<polje>vis</polje>
+<resenje>skok</resenje>
+</kolona>
+<kolona>
+<polje>kontinent</polje>
+<polje>zmija</polje>
+<polje>kanbera</polje>
+<polje>emu</polje>
+<resenje>australija</resenje>
+</kolona>
+<kolona>
+<polje>ruksak</polje>
+<polje>zenska</polje>
+<polje>ceger</polje>
+<polje>aktovka</polje>
+<resenje>torba</resenje>
+<resenje>torbe</resenje>
+</kolona>
+<kolona>
+<polje>slon</polje>
+<polje>kornjaca</polje>
+<polje>domaca</polje>
+<polje>kojot</polje>
+<resenje>zivotinja</resenje>
+<resenje>zivotinje</resenje>
+</kolona>
+<kon_resenje>kengur</kon_resenje>
+<kon_resenje>kenguri</kon_resenje>
+</asocijacija>

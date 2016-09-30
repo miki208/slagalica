@@ -1,0 +1,60 @@
+* {
+	margin: 0px;
+}
+#wrapper {
+	font-family: "Courier New", Courier, monospace;
+	color: #F00;
+	background-image: url(dost-ind1.jpg);
+	background-repeat: repeat;
+	height: auto;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	border: 1px solid #F00;
+}
+
+#wrapper #bar {
+	width: 800px;
+	background-image: url(rank-ind1.png);
+	float:left;
+}
+#wrapper #bar #time {
+	float: right;
+	clear: none;
+	height: 80px;
+	width: 80px;
+	margin: 10px;
+	background-color: #FFFF00;
+	-webkit-border-radius: 40px;
+	-moz-border-radius: 40px;
+	color: #FF0000;
+	border: thick outset #FF0000;
+}
+#wrapper #bar #time p {
+	font-size: 45px;
+	text-align: center;
+	margin-top:12px;
+}
+
+#wrapper #bar #points {
+	width: 90px;
+	height: 70px;
+	margin: 10px;
+	background-color: #FFFF00;
+	position: absolute;
+	color: #FF0000;
+	border: thick outset #FF0000;
+}
+#wrapper #bar #points p {
+	font-size: 60px;
+	text-align: center;
+}
+
+#wrapper #igra {
+	background-image: url(dost-ind1.jpg);
+	background-repeat: repeat;
+	width: 800px;
+	margin: 0px;
+	clear: both;
+	float: left;
+}

@@ -1,0 +1,143 @@
+@charset "utf-8";
+* {
+	margin: 0px;
+}
+#wrapper {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #999999;
+	border-left-color: #999999;
+}
+#wrapper #logo {
+	height: 200px;
+	width: 800px;
+	background-image: url(christmas/logo.jpg);
+}
+#wrapper #meni {
+	height: 35px;
+	background-color: #f7f7f7;
+}
+#wrapper #glavna #igre {
+	width: 200px;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #999999;
+	height: auto;
+	float: left;
+	position: absolute;
+	background-image: url(dost-ind1.jpg);
+	background-repeat: repeat;
+	margin: 0px;
+	border-radius: 0 0 15px 0px;
+}
+#wrapper #glavna #dostignuca {
+	height: auto;
+	width: 590px;
+	float: right;
+	border-radius:15px;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-left: 5px;
+	background-image: url(dost-ind1.jpg);
+}
+#wrapper #glavna #dostignuca p {
+	text-align: center;
+	font-family: "Courier New", Courier, monospace;
+	color: #FF0000;
+}
+#wrapper #glavna #dostignuca img {
+	height: 40px;
+	width: 40px;
+	border-radius:10px;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+}
+#wrapper #glavna #rank {
+	clear: both;
+	width: 590px;
+	float: right;
+	margin: 5px;
+	border-radius:15px;
+	background-image: url(dost-ind1.jpg);
+}
+#wrapper #glavna #rank #dnevna {
+	height: 200px;
+	width: 180px;
+	margin-right: 5px;
+	border-radius:10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 10px;
+	float: left;
+	background-image: url(rank-ind1.png);
+	border: 1px solid #FFFFFF;
+}
+#wrapper #glavna #rank #mesecna {
+	height: 200px;
+	width: 180px;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	border-radius:10px;
+	float: left;
+	background-image: url(rank-ind1.png);
+	border: 1px solid #FFFFFF;
+}
+#wrapper #glavna #rank #celokupna {
+	height: 200px;
+	width: 180px;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	float: left;
+	border-radius:10px;
+	background-image: url(rank-ind1.png);
+	border: 1px solid #FFFFFF;
+}
+#rank_naslov {
+	font-family: "Courier New", Courier, monospace;
+	color: #FF0000;
+	text-align: center;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #FF0000;
+	font-size: 12px;
+}
+#stavka {
+	
+}
+#nick {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 13px;
+	color: #FF0000;
+	text-align: left;
+	width: 130px;
+	float:left;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #FF0000;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #FF0000;
+}
+#poen {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 13px;
+	color: #FF0000;
+	text-align: right;
+	width: 47px;
+	float: left;
+	margin-right:2px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #FF0000;
+}
